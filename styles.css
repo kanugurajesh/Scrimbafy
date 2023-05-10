@@ -123,4 +123,21 @@ footer {
     Media queries 
    ================= */
 
-@media (min-width:480px) {}
+@media (max-width: 480px) {
+    body {
+        font-size: 14px;
+    }
+
+    .main-content img {
+        width: 150px;
+        height: 150px;
+    }
+
+    .main-content h2 {
+        font-size: 2rem;
+    }
+
+    .main-content p {
+        font-size: 1.2rem;
+    }
+}
