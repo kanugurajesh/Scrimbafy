@@ -10,7 +10,7 @@
 
 body {
     width: 100vw;
-    min-width: 400px;
+    min-width: 420px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -30,7 +30,7 @@ img {
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 400px;
+    max-width: 420px;
 }
 
 .intro {
@@ -39,7 +39,7 @@ img {
 
 form {
     width: 100%;
-    max-width: 400px;
+    max-width: 420px;
     display: flex;
     flex-direction: column;
 }
